@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import Pi from './Pi';
+import './index.css';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
